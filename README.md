@@ -1,8 +1,8 @@
-# EstateVista — Real Estate Portfolio Website
+ EstateVista — Real Estate Portfolio Website
 
 EstateVista is a fictional multi-page real-estate platform built for a public front-end portfolio. It uses only HTML, CSS, JavaScript, JSON, and original local SVG artwork. No build step, framework, API key, or backend is required.
 
-## Features
+ -  Features
 
 - 30+ responsive pages
 - 12 full property detail pages with local galleries
@@ -16,20 +16,6 @@ EstateVista is a fictional multi-page real-estate platform built for a public fr
 - Original SVG property, neighborhood, hero, and agent illustrations
 - GitHub Pages friendly relative paths
 
-## Run locally
-
-Open `index.html` directly, or use a simple local server. The JSON-driven favorites/compare views work best through a local server because browsers can restrict `fetch()` on `file://` URLs.
-
-```bash
-python -m http.server 8000
-```
-
-Then open `http://localhost:8000`.
-
-## GitHub Pages
-
-Push the folder contents to a repository and enable GitHub Pages from the repository settings. No environment variables are needed.
-
-## Demo disclaimer
+ Disclaimer
 
 All properties, addresses, agents, prices, market figures, and contact details are fictional. The site is a portfolio demonstration only.
